@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![Lena](../lena.jpg)
+![lena](https://github.com/margaretpope/m1-hw1-pope-margaret/assets/133923295/dc576aca-6e7f-486b-8256-7e01fb87bfb5)
 ## About Me
 I live and work in my hometown, Birmingham, Alabama, where I live with my one-eyed cat, Lena. I enjoy spending time with my friends and family. During the Covid lockdown, I took up needlepoint, and it has become my favorite hobby.
 ## Past Coding Experience
