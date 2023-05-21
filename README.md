@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![Lena](../IMG_2485.jpg)
+![Lena](../lena.jpg)
 ## About Me
 I live and work in my hometown, Birmingham, Alabama, where I live with my one-eyed cat, Lena. I enjoy spending time with my friends and family. During the Covid lockdown, I took up needlepoint, and it has become my favorite hobby.
 ## Past Coding Experience
